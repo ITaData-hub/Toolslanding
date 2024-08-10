@@ -1,0 +1,69 @@
+# See https://docs.github.com/get-started/getting-started-with-git/ignoring-files for more about ignoring files.
+
+# Compiled output
+/tmp
+/out-tsc
+/bazel-out
+/public
+/src
+
+
+# Node
+/node_modules
+npm-debug.log
+yarn-error.log
+
+# IDEs and editors
+.idea/
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# Visual Studio Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/*
+
+# Miscellaneous
+/.angular/cache
+.sass-cache/
+/connect.lock
+/coverage
+/libpeerconnection.log
+testem.log
+/typings
+
+# System files
+.DS_Store
+Thumbs.db
+src/assets/svg/search.svg
+src/assets/svg/logo-image.svg
+src/assets/svg/Illustration.svg
+src/assets/svg/flat-color-icons_like.svg
+src/assets/svg/eva_folder-add-outline.svg
+src/assets/svg/chevron-down.svg
+src/assets/svg/bx_bxl-twitter.svg
+src/assets/svg/bx_bxl-instagram.svg
+src/assets/svg/bx_bxl-facebook.svg
+src/assets/png/grommet-icons_figma.png
+.editorconfig
+angular.json
+package-lock.json
+package.json
+README.md
+tsconfig.app.json
+tsconfig.json
+tsconfig.spec.json
+.vscode/extensions.json
+.vscode/launch.json
+.vscode/tasks.json
+src/index.html
+src/main.ts
+src/styles.scss
+src/app/app.component.html

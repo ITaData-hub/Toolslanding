@@ -1,0 +1,547 @@
+{
+  "tools": [
+    {
+      "id": 1,
+      "name": "WinRAR",
+      "type": [
+        "Archivers"
+      ],
+      "d_release": "01.01.1995",
+      "isLike": 0,
+      "folder": "None",
+      "icon": "https://www.softportal.com/scr/152/icons/winrar_72.png",
+      "description": "WinRAR is a mega popular archiver that can handle almost any archive format (e.g. RAR, ZIP, CAB, 7Z, JAR, ACE, TAR, ISO) and provides decent speed and data compression.",
+      "link": "https://www.softportal.com/software-152-winrar.html",
+      "price_type": "Paid/Conditional Free"
+    },
+    {
+      "id": 2,
+      "name": "Daemon Tools",
+      "type": [
+        "Disk images"
+      ],
+      "d_release": "01.01.2000",
+      "isLike": 0,
+      "folder": "None",
+      "icon": "https://www.softportal.com/scr/10/icons/daemon_tools_72.png",
+      "description": "DAEMON Tools is a powerful software for creating disk images and emulating virtual CD/DVD/Blu-ray drives with support for many protection systems. It can create iso, mds, mdf and mdx images from CD/DVD/Blu-ray disks with the function of compression and image password protection.",
+      "link": "https://www.softportal.com/software-10-daemon-tools.html",
+      "price_type": "Free"
+    },
+    {
+      "id": 3,
+      "name": "uTorrent",
+      "type": [
+        "Torrent clients",
+        "File exchange"
+      ],
+      "d_release": "01.01.2005",
+      "isLike": 0,
+      "folder": "None",
+      "icon": "https://www.softportal.com/scr/4596/icons/utorrent_72.png",
+      "description": "µTorrent is a popular client for peer-to-peer p2p networks (BitTorrent protocol), which, thanks to its functionality and small size, is deservedly a leader among the programs of this category.",
+      "link": "https://www.softportal.com/software-4596-utorrent.html",
+      "price_type": "Free"
+    },
+    {
+      "id": 3,
+      "name": "VKSaver",
+      "type": [
+        "File download"
+      ],
+      "d_release": "28.05.2024",
+      "isLike": 0,
+      "folder": "None",
+      "icon": "https://www.softportal.com/scr/13554/icons/vksaver_72.png",
+      "description": "VKSaver is a free and very easy to use program that allows you to easily download music and video files located on the website of the social network VKontakte.",
+      "link": "https://www.softportal.com/software-13554-vksaver.html",
+      "price_type": "Free"
+    },
+    {
+      "id": 4,
+      "name": "Driver Booster",
+      "type": [
+        "Driver programs"
+      ],
+      "d_release": "01.09.2021",
+      "isLike": 0,
+      "folder": "None",
+      "icon": "https://www.softportal.com/scr/31816/icons/driver_booster_free_64.png",
+      "description": "Driver Booster Free is a useful program that automatically scans and detects drivers on your PC. After finding outdated drivers, the program offers to download and install updates literally with one click.",
+      "link": "https://www.softportal.com/software-31816-driver-booster-free.html",
+      "price_type": "Free"
+    },
+    {
+      "id": 5,
+      "name": "Visual Studio Code",
+      "type": [
+        "Code editors",
+        "Editors"
+      ],
+      "d_release": "29.05.2015",
+      "isLike": 0,
+      "folder": "None",
+      "icon": "https://www.softportal.com/scr/45856/icons/visual_studio_code_64.png",
+      "description": "Visual Studio Code is a fast, functional, and most importantly, absolutely free code editor from Microsoft that offers the user all the necessary tools for development.",
+      "link": "https://www.softportal.com/software-45856-visual-studio-code.html",
+      "price_type": "Free"
+    },
+    {
+      "id": 6,
+      "name": "Collect URL",
+      "type": [
+        "Other"
+      ],
+      "d_release": "30.05.2020",
+      "isLike": 0,
+      "folder": "None",
+      "icon": "https://www.softportal.com/scr/49099/icons/collect_url_64.png",
+      "description": "Collect URL is a web page parsing program that scans web pages like a search bot. Starting with the URL entered by the user, it searches through all the links found on the web page. The program then recursively continues scanning the URLs in the list. The user can restrict the program to collecting only one domain or subdomain. The file extension exclusion list can be edited, as can the connection and response timeout values. The user can also change the user-agent value for HTTP and HTTPS connections.",
+      "link": "https://www.softportal.com/software-49099-collect-url.html",
+      "price_type": "Free"
+    },
+    {
+      "id": 7,
+      "name": "Geany",
+      "type": [
+        "Editors"
+      ],
+      "d_release": "01.01.2005",
+      "isLike": 0,
+      "folder": "None",
+      "icon": "https://www.softportal.com/scr/49956/icons/geany_64.png",
+      "description": "Geany is an open source project that is a lightweight, GTK-based integrated development environment aimed at developers who need a fast application for creating and compiling code.",
+      "link": "https://www.softportal.com/software-49956-geany.html",
+      "price_type": "Free"
+    },
+    {
+      "id": 8,
+      "name": "Web Platform Identifier",
+      "type": [
+        "Other"
+      ],
+      "d_release": "01.01.2010",
+      "isLike": 0,
+      "folder": "None",
+      "icon": "https://www.softportal.com/scr/49829/icons/web_platform_identifier_64.png",
+      "description": "Web Platform Identifier is a handy application for web developers that allows you to quickly and easily identify the underlying web platform for any URL or even multiple URLs at once, thanks to support for batch operations.",
+      "link": "https://www.softportal.com/software-49829-web-platform-identifier.html",
+      "price_type": "Free"
+    },
+    {
+      "id": 9,
+      "name": "EditPlus",
+      "type": [
+        "Code editors",
+        "Editors"
+      ],
+      "d_release": "29.05.2015",
+      "isLike": 0,
+      "folder": "None",
+      "icon": "https://www.softportal.com/scr/163/icons/editplus_64.png",
+      "description": "EditPlus - This editor is more for programmers than for the average HTML page builder. It loads quickly, highlights syntax of many languages including HTML, PHP, ASP, ASP, Perl, C++, Java, etc. Easily customizable. There is a built-in FTP client for uploading files to the server. Many additional useful functions for editing. One of the best choices for those who rely not only on visual tools, but also write something by hand.",
+      "link": "https://www.softportal.com/software-163-editplus.html",
+      "price_type": "Conditional free"
+    },
+    {
+      "id": 10,
+      "name": "Screaming Frog SEO Spider",
+      "type": [
+        "Site promotion"
+      ],
+      "d_release": "01.01.2020",
+      "isLike": 0,
+      "folder": "None",
+      "icon": "https://www.softportal.com/scr/46572/icons/screaming_frog_seo_spider_64.png",
+      "description": "Screaming Frog SEO Spider is a great SEO optimizer tool that is a powerful website scanner that allows you to scan website URLs and extract a lot of useful information for analysis and technical auditing.",
+      "link": "https://www.softportal.com/software-46572-screaming-frog-seo-spider.html",
+      "price_type": "Free"
+    },
+    {
+      "id": 11,
+      "name": "JSON Beautifier",
+      "type": [
+        "Java",
+        "JavaScript"
+      ],
+      "d_release": "19.01.2023",
+      "isLike": 0,
+      "folder": "None",
+      "icon": "https://www.softportal.com/scr/49232/icons/json_beautifier_64.png",
+      "description": "JSON Beautifier is an easy-to-use program for viewing and formatting JSON. When you open a JSON file in a text editor, you usually get text that is almost impossible to read and understand. Vovsoft JSON Beautifier provides a way to make the text inside JSON files readable.",
+      "link": "https://www.softportal.com/software-49232-json-beautifier.html",
+      "price_type": "Free"
+    },
+    {
+      "id": 12,
+      "name": "Proxy Checker",
+      "type": [
+        "Proxy servers"
+      ],
+      "d_release": "29.01.2001",
+      "isLike": 0,
+      "folder": "None",
+      "icon": "https://www.softportal.com/scr/50546/icons/proxy_checker_64.png",
+      "description": "VOVSOFT - Proxy Checker is an application designed to check the availability and status of proxy servers. The program allows you to add, manage and check both individual entries and entire lists of proxy servers. It supports multiple types of proxies and features a user-friendly interface that allows users to easily navigate through its functions.",
+      "link": "https://www.softportal.com/software-50546-proxy-checker.html",
+      "price_type": "Free"
+    },
+    {
+      "id": 13,
+      "name": "Open Server",
+      "type": [
+        "Web Servers",
+        "Development Tools"
+      ],
+      "d_release": "01.01.1989",
+      "isLike": 0,
+      "folder": "None",
+      "icon": "https://www.softportal.com/scr/48607/icons/open_server_64.png",
+      "description": "Open Server is a powerful portable software environment created specifically for web developers, which includes a carefully selected set of server software (Apache, Nginx, Sendmail, Ghostscript, PHPMyAdmin, MariaDB, Memcached, MongoDB, MySQL, PostgreSQL, Redis, various PHP modules and additional extensions, etc.), as well as a convenient management utility, which has powerful features for administration and customization of all available components.",
+      "link": "https://www.softportal.com/software-48607-open-server.html",
+      "price_type": "Free"
+    },
+    {
+      "id": 14,
+      "name": "FileZilla Server",
+      "type": [
+        "FTP servers"
+      ],
+      "d_release": "22.06.2001",
+      "isLike": 0,
+      "folder": "None",
+      "icon": "https://www.softportal.com/scr/4944/icons/filezilla_server_64.png",
+      "description": "FileZilla Server is a compact, powerful, fast and free FTP server. It allows you to quickly and easily turn your PC into a server and is one of the best programs of its kind. It is installed as a system service, and configuration is done through the admin panel, which connects to a specified local port.",
+      "link": "https://www.softportal.com/software-4944-filezilla-server.html",
+      "price_type": "Free"
+    },
+    {
+      "id": 15,
+      "name": "ChrisPC Anonymous Proxy",
+      "type": [
+        "Data Protection",
+        "Proxy Servers"
+      ],
+      "d_release": "05.10.2023",
+      "isLike": 0,
+      "folder": "None",
+      "icon": "https://www.softportal.com/scr/43474/icons/chrispc_anonymous_proxy_64.png",
+      "description": "Visual Studio Code is a fast, functional, and most importantly, absolutely free code editor from Microsoft that offers the user all the necessary tools for development.",
+      "link": "https://www.softportal.com/software-43474-chrispc-anonymous-proxy.html",
+      "price_type": "Free"
+    },
+    {
+      "id": 16,
+      "name": "Discord",
+      "type": [
+        "Networking",
+        "IRC",
+        "ICQ",
+        "Messenger"
+      ],
+      "d_release": "13.05.2015",
+      "isLike": 0,
+      "folder": "None",
+      "icon": "https://www.softportal.com/scr/44158/icons/discord_64.png",
+      "description": "Discord is a completely free cross-platform voice messenger and text chat application designed specifically for gamers. This application will come in handy for game lovers, as it uses minimal system resources without affecting FPS.",
+      "link": "https://www.softportal.com/software-44158-discord.html",
+      "price_type": "Free"
+    }
+  ],
+  "user-tools": [
+    {
+      "userId": 1,
+      "uTools": [
+        {
+          "id": 1,
+          "name": "WinRAR",
+          "type": [
+            "Archivers"
+          ],
+          "d_release": "01.01.1995",
+          "isLike": 0,
+          "folder": "None",
+          "icon": "https://www.softportal.com/scr/152/icons/winrar_72.png",
+          "description": "WinRAR is a mega popular archiver that can handle almost any archive format (e.g. RAR, ZIP, CAB, 7Z, JAR, ACE, TAR, ISO) and provides decent speed and data compression.",
+          "link": "https://www.softportal.com/software-152-winrar.html",
+          "price_type": "Paid/Conditional Free"
+        },
+        {
+          "id": 2,
+          "name": "Daemon Tools",
+          "type": [
+            "Disk images"
+          ],
+          "d_release": "01.01.2000",
+          "isLike": 0,
+          "folder": "None",
+          "icon": "https://www.softportal.com/scr/10/icons/daemon_tools_72.png",
+          "description": "DAEMON Tools is a powerful software for creating disk images and emulating virtual CD/DVD/Blu-ray drives with support for many protection systems. It can create iso, mds, mdf and mdx images from CD/DVD/Blu-ray disks with the function of compression and image password protection.",
+          "link": "https://www.softportal.com/software-10-daemon-tools.html",
+          "price_type": "Free"
+        },
+        {
+          "id": 3,
+          "name": "uTorrent",
+          "type": [
+            "Torrent clients",
+            "File exchange"
+          ],
+          "d_release": "01.01.2005",
+          "isLike": 0,
+          "folder": "None",
+          "icon": "https://www.softportal.com/scr/4596/icons/utorrent_72.png",
+          "description": "µTorrent is a popular client for peer-to-peer p2p networks (BitTorrent protocol), which, thanks to its functionality and small size, is deservedly a leader among the programs of this category.",
+          "link": "https://www.softportal.com/software-4596-utorrent.html",
+          "price_type": "Free"
+        },
+        {
+          "id": 3,
+          "name": "VKSaver",
+          "type": [
+            "File download"
+          ],
+          "d_release": "28.05.2024",
+          "isLike": 0,
+          "folder": "None",
+          "icon": "https://www.softportal.com/scr/13554/icons/vksaver_72.png",
+          "description": "VKSaver is a free and very easy to use program that allows you to easily download music and video files located on the website of the social network VKontakte.",
+          "link": "https://www.softportal.com/software-13554-vksaver.html",
+          "price_type": "Free"
+        },
+        {
+          "id": 4,
+          "name": "Driver Booster",
+          "type": [
+            "Driver programs"
+          ],
+          "d_release": "01.09.2021",
+          "isLike": 0,
+          "folder": "None",
+          "icon": "https://www.softportal.com/scr/31816/icons/driver_booster_free_64.png",
+          "description": "Driver Booster Free is a useful program that automatically scans and detects drivers on your PC. After finding outdated drivers, the program offers to download and install updates literally with one click.",
+          "link": "https://www.softportal.com/software-31816-driver-booster-free.html",
+          "price_type": "Free"
+        },
+        {
+          "id": 5,
+          "name": "Visual Studio Code",
+          "type": [
+            "Code editors",
+            "Editors"
+          ],
+          "d_release": "29.05.2015",
+          "isLike": 0,
+          "folder": "None",
+          "icon": "https://www.softportal.com/scr/45856/icons/visual_studio_code_64.png",
+          "description": "Visual Studio Code is a fast, functional, and most importantly, absolutely free code editor from Microsoft that offers the user all the necessary tools for development.",
+          "link": "https://www.softportal.com/software-45856-visual-studio-code.html",
+          "price_type": "Free"
+        },
+        {
+          "id": 6,
+          "name": "Collect URL",
+          "type": [
+            "Other"
+          ],
+          "d_release": "30.05.2020",
+          "isLike": 0,
+          "folder": "None",
+          "icon": "https://www.softportal.com/scr/49099/icons/collect_url_64.png",
+          "description": "Collect URL is a web page parsing program that scans web pages like a search bot. Starting with the URL entered by the user, it searches through all the links found on the web page. The program then recursively continues scanning the URLs in the list. The user can restrict the program to collecting only one domain or subdomain. The file extension exclusion list can be edited, as can the connection and response timeout values. The user can also change the user-agent value for HTTP and HTTPS connections.",
+          "link": "https://www.softportal.com/software-49099-collect-url.html",
+          "price_type": "Free"
+        },
+        {
+          "id": 7,
+          "name": "Geany",
+          "type": [
+            "Editors"
+          ],
+          "d_release": "01.01.2005",
+          "isLike": 0,
+          "folder": "None",
+          "icon": "https://www.softportal.com/scr/49956/icons/geany_64.png",
+          "description": "Geany is an open source project that is a lightweight, GTK-based integrated development environment aimed at developers who need a fast application for creating and compiling code.",
+          "link": "https://www.softportal.com/software-49956-geany.html",
+          "price_type": "Free"
+        },
+        {
+          "id": 8,
+          "name": "Web Platform Identifier",
+          "type": [
+            "Other"
+          ],
+          "d_release": "01.01.2010",
+          "isLike": 0,
+          "folder": "None",
+          "icon": "https://www.softportal.com/scr/49829/icons/web_platform_identifier_64.png",
+          "description": "Web Platform Identifier is a handy application for web developers that allows you to quickly and easily identify the underlying web platform for any URL or even multiple URLs at once, thanks to support for batch operations.",
+          "link": "https://www.softportal.com/software-49829-web-platform-identifier.html",
+          "price_type": "Free"
+        },
+        {
+          "id": 9,
+          "name": "EditPlus",
+          "type": [
+            "Code editors",
+            "Editors"
+          ],
+          "d_release": "29.05.2015",
+          "isLike": 0,
+          "folder": "None",
+          "icon": "https://www.softportal.com/scr/163/icons/editplus_64.png",
+          "description": "EditPlus - This editor is more for programmers than for the average HTML page builder. It loads quickly, highlights syntax of many languages including HTML, PHP, ASP, ASP, Perl, C++, Java, etc. Easily customizable. There is a built-in FTP client for uploading files to the server. Many additional useful functions for editing. One of the best choices for those who rely not only on visual tools, but also write something by hand.",
+          "link": "https://www.softportal.com/software-163-editplus.html",
+          "price_type": "Conditional free"
+        },
+        {
+          "id": 10,
+          "name": "Screaming Frog SEO Spider",
+          "type": [
+            "Site promotion"
+          ],
+          "d_release": "01.01.2020",
+          "isLike": 0,
+          "folder": "None",
+          "icon": "https://www.softportal.com/scr/46572/icons/screaming_frog_seo_spider_64.png",
+          "description": "Screaming Frog SEO Spider is a great SEO optimizer tool that is a powerful website scanner that allows you to scan website URLs and extract a lot of useful information for analysis and technical auditing.",
+          "link": "https://www.softportal.com/software-46572-screaming-frog-seo-spider.html",
+          "price_type": "Free"
+        },
+        {
+          "id": 11,
+          "name": "JSON Beautifier",
+          "type": [
+            "Java",
+            "JavaScript"
+          ],
+          "d_release": "19.01.2023",
+          "isLike": 0,
+          "folder": "None",
+          "icon": "https://www.softportal.com/scr/49232/icons/json_beautifier_64.png",
+          "description": "JSON Beautifier is an easy-to-use program for viewing and formatting JSON. When you open a JSON file in a text editor, you usually get text that is almost impossible to read and understand. Vovsoft JSON Beautifier provides a way to make the text inside JSON files readable.",
+          "link": "https://www.softportal.com/software-49232-json-beautifier.html",
+          "price_type": "Free"
+        },
+        {
+          "id": 12,
+          "name": "Proxy Checker",
+          "type": [
+            "Proxy servers"
+          ],
+          "d_release": "29.01.2001",
+          "isLike": 0,
+          "folder": "None",
+          "icon": "https://www.softportal.com/scr/50546/icons/proxy_checker_64.png",
+          "description": "VOVSOFT - Proxy Checker is an application designed to check the availability and status of proxy servers. The program allows you to add, manage and check both individual entries and entire lists of proxy servers. It supports multiple types of proxies and features a user-friendly interface that allows users to easily navigate through its functions.",
+          "link": "https://www.softportal.com/software-50546-proxy-checker.html",
+          "price_type": "Free"
+        },
+        {
+          "id": 13,
+          "name": "Open Server",
+          "type": [
+            "Web Servers",
+            "Development Tools"
+          ],
+          "d_release": "01.01.1989",
+          "isLike": 0,
+          "folder": "None",
+          "icon": "https://www.softportal.com/scr/48607/icons/open_server_64.png",
+          "description": "Open Server is a powerful portable software environment created specifically for web developers, which includes a carefully selected set of server software (Apache, Nginx, Sendmail, Ghostscript, PHPMyAdmin, MariaDB, Memcached, MongoDB, MySQL, PostgreSQL, Redis, various PHP modules and additional extensions, etc.), as well as a convenient management utility, which has powerful features for administration and customization of all available components.",
+          "link": "https://www.softportal.com/software-48607-open-server.html",
+          "price_type": "Free"
+        },
+        {
+          "id": 14,
+          "name": "FileZilla Server",
+          "type": [
+            "FTP servers"
+          ],
+          "d_release": "22.06.2001",
+          "isLike": 0,
+          "folder": "None",
+          "icon": "https://www.softportal.com/scr/4944/icons/filezilla_server_64.png",
+          "description": "FileZilla Server is a compact, powerful, fast and free FTP server. It allows you to quickly and easily turn your PC into a server and is one of the best programs of its kind. It is installed as a system service, and configuration is done through the admin panel, which connects to a specified local port.",
+          "link": "https://www.softportal.com/software-4944-filezilla-server.html",
+          "price_type": "Free"
+        },
+        {
+          "id": 15,
+          "name": "ChrisPC Anonymous Proxy",
+          "type": [
+            "Data Protection",
+            "Proxy Servers"
+          ],
+          "d_release": "05.10.2023",
+          "isLike": 0,
+          "folder": "None",
+          "icon": "https://www.softportal.com/scr/43474/icons/chrispc_anonymous_proxy_64.png",
+          "description": "Visual Studio Code is a fast, functional, and most importantly, absolutely free code editor from Microsoft that offers the user all the necessary tools for development.",
+          "link": "https://www.softportal.com/software-43474-chrispc-anonymous-proxy.html",
+          "price_type": "Free"
+        },
+        {
+          "id": 16,
+          "name": "Discord",
+          "type": [
+            "Networking",
+            "IRC",
+            "ICQ",
+            "Messenger"
+          ],
+          "d_release": "13.05.2015",
+          "isLike": 0,
+          "folder": "None",
+          "icon": "https://www.softportal.com/scr/44158/icons/discord_64.png",
+          "description": "Discord is a completely free cross-platform voice messenger and text chat application designed specifically for gamers. This application will come in handy for game lovers, as it uses minimal system resources without affecting FPS.",
+          "link": "https://www.softportal.com/software-44158-discord.html",
+          "price_type": "Free"
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "users": [
+    {
+      "email": "hffDFDFgfGHGHgfdshghhkjkjdfdjhdydsdsdsfdfdfssddsssdsddsdim@gmail.com",
+      "password": "$2a$10$m4OCHsOSCRiuahNAyEmp1OUOBdUCueGZFmLncakkI.bnKFYB4kI7G",
+      "id": 1
+    }
+  ],
+  "like-tools": [
+    {
+      "id": 1,
+      "userId": 1
+    },
+    {
+      "id": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "userId": 1
+    }
+  ],
+  "folders": [
+    {
+      "userid": 1,
+      "user-folders": [
+        {
+          "name": "Для работы",
+          "tools-id": [
+            1,
+            4
+          ]
+        },
+        {
+          "name": "Для себя",
+          "tools-id": []
+        }
+      ],
+      "id": 1
+    }
+  ]
+}
